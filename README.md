@@ -48,7 +48,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1reC&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-  
+
+## Connect with me
+  mailbox：1489472989@qq.com
 <br/>  
 
 <div align="center">
