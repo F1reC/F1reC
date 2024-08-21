@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm F1reC, an graduate from NUS who major Software Engineering. </div>  
+### <div align="center">I'm F1reC, a graduate from NUS who major Software Engineering. </div>  
   
 
 <br/>  
