@@ -4,14 +4,7 @@
 
   <hr style="width: 50%; border: 1px solid #ddd; margin: 20px 0;" />
 
-  <h3 style="color: #2980b9; font-family: 'Arial', sans-serif;">Languages & Tools</h3>
-  
-
-  <hr style="width: 50%; border: 1px solid #ddd; margin: 20px 0;" />
-
-  <h3 style="color: #2980b9; font-family: 'Arial', sans-serif;">GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1reC&hide_border=true&layout=compact" align="center" style="width: 50%; border-radius: 10px; background-color: #ecf0f1;" />
-
+ 
   <hr style="width: 50%; border: 1px solid #ddd; margin: 20px 0;" />
 
   <h3 style="color: #2980b9; font-family: 'Arial', sans-serif;">Let's Connect!</h3>
