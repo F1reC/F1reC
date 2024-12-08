@@ -5,7 +5,7 @@
   
 
   <h3 style="color: #2980b9; font-family: 'Arial', sans-serif;">Let's Connect!</h3>
-  <p><a href="mailto:1489472989@qq.com" style="text-decoration: none; color: #2980b9;">📧 Email me: 1489472989@qq.com</a></p>
+  <p><a href="mailto:1489472989@qq.com" style="text-decoration: none; color: #2980b9;">📧 Email me: e1351635@u.nus.edu</a></p>
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=F1reC&&style=flat-square" align="center" />
